@@ -1,1 +1,1 @@
-2 file di codice: D&D con comandi base di python codice facilissimo, mini game in python codice piu complesso!
+2 file di codice: D&D con comandi base di Python codice facilissimo, Mini Game in Python codice piu complesso!
